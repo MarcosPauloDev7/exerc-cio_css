@@ -106,7 +106,7 @@ section h2 {
 }
 
 #sports {
-    background-color: #F9F9F9;
+    background-color: #fdd5b0;
 }
 
 #sports .articles article a {
@@ -114,7 +114,7 @@ section h2 {
 }
 
 #economy {
-    background-color: #F9F9F9;
+    background-color: rgb(213, 255, 189);
 }
 
 #economy .articles article a {
@@ -122,7 +122,7 @@ section h2 {
 }
 
 #entertainment {
-    background-color: #F9F9F9;
+    background-color: rgb(170, 216, 247);
 }
 
 #entertainment .articles article a {
@@ -130,5 +130,9 @@ section h2 {
 }
 
 #technology {
-    background-color:#F9F9F9;
+    background-color:#f8c4c4;
+}
+
+#technology .articles article a {
+    background-color: rgb(231, 39, 39);
 }
